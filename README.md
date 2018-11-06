@@ -1,0 +1,3 @@
+# newRepositoryTest
+测试本地仓库和远程仓库的连接
+看看有一个readme会怎么样
